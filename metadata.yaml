@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33720'
     url: http://www.gutenberg.org/2009/agents/33720
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29144#Dubbele-Twee--Leesboek-voor-het-vierde-leerjaar
 gutenberg_issued: '2009-06-17'
 gutenberg_type: Text
 identifiers:
